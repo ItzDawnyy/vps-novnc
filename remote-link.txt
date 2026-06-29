@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://perceived-ons-vid-hamilton.trycloudflare.com/vnc.html
+URL       : https://diploma-intranet-truth-create.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 14:44:31
+Created   : 2026-06-29 21:12:52
 =======================================================
