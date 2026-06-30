@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diploma-intranet-truth-create.trycloudflare.com/vnc.html
+URL       : https://bull-wedding-axis-manually.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 21:12:52
+Created   : 2026-06-30 11:30:26
 =======================================================
